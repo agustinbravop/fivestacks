@@ -1,0 +1,14 @@
+{
+  "name": "fivestacks",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^6.1.0",
+    "svelte": "^5.38.7",
+    "vite": "^7.1.5"
+  }
+}
